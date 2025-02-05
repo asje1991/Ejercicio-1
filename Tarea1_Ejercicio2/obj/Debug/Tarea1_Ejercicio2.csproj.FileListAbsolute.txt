@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\bin\Debug\Tarea1_Ejercicio2.exe.config
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\bin\Debug\Tarea1_Ejercicio2.exe
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\bin\Debug\Tarea1_Ejercicio2.pdb
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\obj\Debug\Tarea1_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\obj\Debug\Tarea1_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\obj\Debug\Tarea1_Ejercicio2.exe
+C:\Users\User\Documents\Programacion\Tarea1_Ejercicio2\Tarea1_Ejercicio2\Tarea1_Ejercicio2\obj\Debug\Tarea1_Ejercicio2.pdb
